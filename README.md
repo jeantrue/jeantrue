@@ -3,7 +3,7 @@
 
 
 I'm Jean from Thailand, and I try to switch to a Software developer. I have been working as a mechanical engineer, had some experience in programing during
-bachelor's studies by using c# and matlab. now,I'm learning to code by myself to become a developer. Let's Rock !!
+bachelor's studies by using c#, python and matlab. now, I'm learning to code by myself to become a developer. Let's Rock !!
 
 
 <!--

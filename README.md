@@ -7,10 +7,6 @@ bachelor's studies by using c#, python and matlab. now, I'm learning to code by 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeantrue&layout=compact)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeantrue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 **jeantrue/jeantrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
